@@ -17,7 +17,7 @@ phases:
 
     post_build:
         commands:
-            - echo post-buildss
+            - echo post-buildssssssss
 artifacts:
     files:
         - template.yaml
